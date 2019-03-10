@@ -591,20 +591,20 @@ font-size: 12pt;
 line-height: 1;
 }
 #screenplay {
-width: 6in;
+width: 8in;
 margin:0 auto;
 }
 p.center {
 text-align:center;
 margin-left:0;
-width:90%;
+width:100%;
 }
 p {
 margin-top:12pt;
 margin-bottom:12pt;
 margin-left:0;
 padding-right:.25in;
-width:6in;
+width:8in;
 white-space: #{wrap_paragraphs};
 }
 
@@ -613,17 +613,17 @@ white-space: #{wrap_paragraphs};
 dt {
 font-weight:normal;
 margin-top:1em;
-margin-left:2in;
+margin-left:3in;
 padding-right:.25in;
-width:4in;
+width:6in;
 }
 
 /*Parentheticals*/
 
 dd.parenthetical {
-margin-left:1.6in;
+margin-left:2.6in;
 text-indent:-.12in;
-width: 2in;
+width: 4in;
 padding-right:2.66in;
 }
 
@@ -631,8 +631,8 @@ padding-right:2.66in;
 
 dd {
 margin:0;
-margin-left: 1in;
-width: 3.5in;
+margin-left: 2in;
+width: 4in;
 padding-right:1.75in;
 line-height: inherit;
 white-space: #{wrap_paragraphs};
@@ -646,12 +646,12 @@ width:100%;
 }
 
 dl.dual {
-width:2.9in;
+width:4.9in;
 }
 
 dl.dual dt, dl.dual dd {
 margin-left:0;
-width:2.5in;
+width:4.5in;
 padding-right:.25in;
 }
 
@@ -670,7 +670,7 @@ text-align:center;
 }
 
 dl.dual dd.parenthetical {
-width:2.1in;
+width:4.1in;
 margin-left:.32in;
 }
 
@@ -710,7 +710,7 @@ font-weight: #{bold_sluglines};
 
 h3 {
 margin-left: 4in;
-width: 2in;
+width: 4in;
 }
 
 /* Left Transitions */
