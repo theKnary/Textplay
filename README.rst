@@ -7,7 +7,7 @@ written in Fountain_ formatted plain-text to HTML, XML, and FDX (`Final Draft`_)
 Textplay has been rigorously tested against fountain documents,
 but it is not perfect, if you encounter a problem please open a `github issue`_.
 
-Changes made in this fork
+--- Changes made in this fork ---
 -------------------------
 
 I changed the formatting a bit so that it converts to PDF better.
