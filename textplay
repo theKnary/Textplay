@@ -234,7 +234,7 @@ For more details see the Fountain documentation
 # Some of this is redundant but I prefer specifying every contingency in case I need to control each step
 
 # Check to see if anything is in STDIN
-if STDIN.isatty == TRUE
+if STDIN.isatty == true
 
 	# If nothing is there, check for --help
 	if options[:help] == true
@@ -509,8 +509,8 @@ htmlStart = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\"
 size: 8.5in 11in;
 margin-top:1in;
 margin-right:1in;
-margin-bottom:.5in;
-margin-left:1.5in;
+margin-bottom:1in;
+margin-left:1in;
 }
 /* This makes the page-counter start on the first page of the screenplay */
 div#screenplay {
