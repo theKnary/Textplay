@@ -1,3 +1,8 @@
+Changes made in this fork
+-------------------------
+
+I changed the formatting a bit so that it converts to PDF better.
+
 Textplay
 ========
 
