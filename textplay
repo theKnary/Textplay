@@ -429,7 +429,7 @@ screenbundle_comments = "off"
 end
 
 if bold_sluglines == nil or bold_sluglines == ""
-bold_sluglines = "on"
+bold_sluglines = "off"
 end
 
 if underlined_sluglines == nil or underlined_sluglines == ""
@@ -449,7 +449,7 @@ if options[:wrap] == true
     wrap_paragraphs = "on"
 else
     if wrap_paragraphs == nil or wrap_paragraphs == ""
-    wrap_paragraphs = "off"
+    wrap_paragraphs = "on"
     end
 end
 
