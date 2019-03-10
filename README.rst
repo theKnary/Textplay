@@ -11,6 +11,7 @@ Changes made in this fork
 -------------------------
 
 I changed the formatting a bit so that it converts to PDF better.
+I also changed the defaults to the more common formatting standards.
 
 Installation
 ------------
