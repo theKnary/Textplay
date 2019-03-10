@@ -12,6 +12,7 @@ Changes made in this fork
 
 I changed the formatting a bit so that it converts to PDF better.
 I also changed the defaults to the more common formatting standards.
+Carriage returns are interpreted as the same line by default as well.
 
 Installation
 ------------
@@ -71,9 +72,9 @@ goldman_sluglines                        on
 screenbundle_comments                    off
 font                                     "Courier Prime"
 slugline_spacing (number of 12pt lines)  1
-bold_sluglines                           on
+bold_sluglines                           off
 underlined_sluglines                     off
-wrap_paragraphs                          off
+wrap_paragraphs                          on
 header                                   (empty by default)
 footer                                   (empty by default)
 =======================================  ==================
