@@ -592,7 +592,7 @@ line-height: 1;
 }
 #screenplay {
 width: 8in;
-margin:0 auto;
+margin: 0.5in auto 0.5in auto;
 }
 p.center {
 text-align:center;
