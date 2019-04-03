@@ -1,3 +1,12 @@
+--- Changes made in this fork ---
+-------------------------
+
+I changed the formatting a bit so that it converts to PDF better.
+I also changed the defaults to the more common formatting standards.
+Carriage returns are interpreted as the same line by default as well.
+
+Set top and bottom margins with your html to pdf converter options.
+
 Textplay
 ========
 
@@ -6,13 +15,6 @@ written in Fountain_ formatted plain-text to HTML, XML, and FDX (`Final Draft`_)
 
 Textplay has been rigorously tested against fountain documents,
 but it is not perfect, if you encounter a problem please open a `github issue`_.
-
---- Changes made in this fork ---
--------------------------
-
-I changed the formatting a bit so that it converts to PDF better.
-I also changed the defaults to the more common formatting standards.
-Carriage returns are interpreted as the same line by default as well.
 
 Installation
 ------------
