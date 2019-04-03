@@ -1,6 +1,8 @@
 --- Changes made in this fork ---
 -------------------------
 
+Works for linux (using correct makefile) and with the latest Ruby.
+
 I changed the formatting a bit so that it converts to PDF better.
 I also changed the defaults to the more common formatting standards.
 Carriage returns are interpreted as the same line by default as well.
@@ -32,6 +34,9 @@ This will place a symbolic link to textplay in ``/usr/local/bin/``.
 This symbolic link can be removed with ``make uninstall``.
 
 Textplay was built using Mac OS 10.10 and Ruby 2.0.
+
+Note: It works for linux, using the makefile_linux and the latest Ruby.
+
 I have only tested it in this environment,
 if you want to run Textplay in another environment (such as Windows)
 you may have to modify the code.
