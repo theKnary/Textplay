@@ -1,4 +1,4 @@
-install:
+install: textplay
   cp textplay /usr/local/bin/
-uninstall:
+uninstall: textplay
   rm /usr/local/bin/textplay
