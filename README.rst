@@ -7,6 +7,9 @@ Carriage returns are interpreted as the same line by default as well.
 
 Set top and bottom margins with your html to pdf converter options.
 
+*Installation:* Copy paste the makefile for your OS and rename it to 'makefile'
+before installing with make.
+
 Textplay
 ========
 
@@ -21,6 +24,8 @@ Installation
 
 - Clone this repo somewhere convenient,
 - ``cd`` into that directory,
+- ``cp makefile_* makefile``
+    *: the OS that of your computer
 - run ``make install``.
 
 This will place a symbolic link to textplay in ``/usr/local/bin/``.
