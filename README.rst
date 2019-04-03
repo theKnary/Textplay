@@ -3,9 +3,10 @@
 
 Works for linux (using correct makefile) and with the latest Ruby.
 
-I changed the formatting a bit so that it converts to PDF better.
-I also changed the defaults to the more common formatting standards.
-Carriage returns are interpreted as the same line by default as well.
+I changed the formatting a bit so that it converts to PDF better,
+using wkhtmltopdf. I also changed the defaults to the more common
+formatting standards. Carriage returns are interpreted as the same
+line by default as well.
 
 Set top and bottom margins with your html to pdf converter options.
 
