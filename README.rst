@@ -25,7 +25,7 @@ Installation
 - Clone this repo somewhere convenient,
 - ``cd`` into that directory,
 - ``cp makefile_* makefile``
-    *: the OS that of your computer
+    * : the OS of your computer
 - run ``make install``.
 
 This will place a symbolic link to textplay in ``/usr/local/bin/``.
